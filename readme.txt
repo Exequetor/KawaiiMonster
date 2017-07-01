@@ -8,6 +8,6 @@ Videojuego "Kawaii Monster"
 
 Por:
 Hernández Montellano Carlos
-Miguel Sanchez Itzel Mariela
-Marínez Robles Liz Velia
+Martínez Robles Liz Velia
+Miguel Sánchez Itzel Mariela
 
